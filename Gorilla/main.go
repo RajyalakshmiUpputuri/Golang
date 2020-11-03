@@ -1,3 +1,5 @@
+
+// while runing this program first run "go get github.com/gorilla/mux" then run program
 package main
 
 import (
