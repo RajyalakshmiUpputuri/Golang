@@ -13,7 +13,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/RajyalakshmiUpputuri/Golang/golang-blockchain/wallet"
+	"github.com/RajyalakshmiUpputuri/golang-blockchain/wallet"
 )
 
 type Transaction struct {
